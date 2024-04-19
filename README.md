@@ -1,4 +1,5 @@
 ### Hi there 👋
+### Learning Java and Python 
 
 <!--
 **Louie1033/Louie1033** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
